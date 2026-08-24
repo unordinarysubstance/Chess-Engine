@@ -1,9 +1,9 @@
 # High-Performance Chess Engine
 
-A dependency-free C++17 chess engine built around 64-bit bitboards, incremental
+A dependency-free C++ 17 chess engine built around 64-bit bitboards, incremental
 make/unmake, alpha-beta pruning, deterministic Zobrist hashing, and a fixed-size
 transposition table. It includes a UCI interface, correctness tests, perft tools,
-and a benchmark that compares identical searches in three modes.
+and a benchmark that compares identical searches in three modes. 
 
 ## Implemented features
 
